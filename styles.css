@@ -1,0 +1,9 @@
+* {
+  margin:0px;
+  padding:0px;
+}
+div {
+  background-color:red;
+  width:20px;
+  height:40px;
+}
